@@ -1,0 +1,307 @@
+{
+    "max_consecutive_losses": 2,
+    "total_trades": 30,
+    "total_sl": 6,
+    "trades": [
+        {
+            "Date": "2026-05-01",
+            "Ticker": "CERS",
+            "Gap": 0.3251231995726787,
+            "Type": "EOD",
+            "Return": 0.011152405483875371,
+            "Old Capital": 100.0,
+            "New Capital": 101.11524054838755,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-04",
+            "Ticker": "HTCO",
+            "Gap": 0.1645569238233334,
+            "Type": "PT",
+            "Return": 0.4,
+            "Old Capital": 101.11524054838755,
+            "New Capital": 141.56133676774255,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-05",
+            "Ticker": "MASK",
+            "Gap": 0.39310338930908106,
+            "Type": "EOD",
+            "Return": 0.03465343262562358,
+            "Old Capital": 141.56133676774255,
+            "New Capital": 146.4669230138167,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-06",
+            "Ticker": "PMAX",
+            "Gap": 0.34905662711467167,
+            "Type": "PT",
+            "Return": 0.3999999999999998,
+            "Old Capital": 146.4669230138167,
+            "New Capital": 205.0536922193434,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-07",
+            "Ticker": "ATRA",
+            "Gap": 0.5242717979158605,
+            "Type": "PT",
+            "Return": 0.39999999999999997,
+            "Old Capital": 205.0536922193434,
+            "New Capital": 287.07516910708074,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-08",
+            "Ticker": "WEST",
+            "Gap": 0.16440674144281384,
+            "Type": "EOD",
+            "Return": 0.2008733824496437,
+            "Old Capital": 287.07516910708074,
+            "New Capital": 344.7409293429235,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-11",
+            "Ticker": "CLIK",
+            "Gap": 0.475336293144942,
+            "Type": "SL",
+            "Return": -0.2,
+            "Old Capital": 344.7409293429235,
+            "New Capital": 275.7927434743388,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-12",
+            "Ticker": "CNCK",
+            "Gap": 0.3685714176722935,
+            "Type": "EOD",
+            "Return": -0.13987475608136615,
+            "Old Capital": 275.7927434743388,
+            "New Capital": 237.21630075185487,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-13",
+            "Ticker": "FCHL",
+            "Gap": 0.39849620623170573,
+            "Type": "EOD",
+            "Return": 0.09139782568666634,
+            "Old Capital": 237.21630075185487,
+            "New Capital": 258.8973548580087,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-14",
+            "Ticker": "MOBX",
+            "Gap": 0.6781609541895145,
+            "Type": "PT",
+            "Return": 0.39999999999999997,
+            "Old Capital": 258.8973548580087,
+            "New Capital": 362.4562968012122,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-15",
+            "Ticker": "AUUD",
+            "Gap": 0.7131146435710725,
+            "Type": "EOD",
+            "Return": -0.06220090017276792,
+            "Old Capital": 362.4562968012122,
+            "New Capital": 339.9111888668889,
+            "Source": "DAILY_FALLBACK"
+        },
+        {
+            "Date": "2026-05-18",
+            "Ticker": "HCAI",
+            "Gap": 0.6317689574187858,
+            "Type": "SL",
+            "Return": -0.19999999999999993,
+            "Old Capital": 339.9111888668889,
+            "New Capital": 271.9289510935111,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-19",
+            "Ticker": "WNW",
+            "Gap": 0.7053941855349574,
+            "Type": "PT",
+            "Return": 0.4,
+            "Old Capital": 271.9289510935111,
+            "New Capital": 380.7005315309155,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-20",
+            "Ticker": "PETZ",
+            "Gap": 0.320987715188404,
+            "Type": "EOD",
+            "Return": 0.055813897784304164,
+            "Old Capital": 380.7005315309155,
+            "New Capital": 401.9489120842123,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-21",
+            "Ticker": "CODX",
+            "Gap": 0.3179916138513008,
+            "Type": "PT",
+            "Return": 0.3999999999999998,
+            "Old Capital": 401.9489120842123,
+            "New Capital": 562.7284769178972,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-22",
+            "Ticker": "LFS",
+            "Gap": 0.8933333079020183,
+            "Type": "EOD",
+            "Return": -0.004219438712376056,
+            "Old Capital": 562.7284769178972,
+            "New Capital": 560.3540785978333,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-26",
+            "Ticker": "ARTL",
+            "Gap": 0.6050419115799698,
+            "Type": "EOD",
+            "Return": -0.10471200626678877,
+            "Old Capital": 560.3540785978333,
+            "New Capital": 501.67827880807636,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-27",
+            "Ticker": "APPS",
+            "Gap": 0.34927231773890755,
+            "Type": "EOD",
+            "Return": 0.028483440498723957,
+            "Old Capital": 501.67827880807636,
+            "New Capital": 515.9678022120085,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-28",
+            "Ticker": "ATPC",
+            "Gap": 1.0245614645627161,
+            "Type": "PT",
+            "Return": 0.3999999999999998,
+            "Old Capital": 515.9678022120085,
+            "New Capital": 722.3549230968118,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-05-29",
+            "Ticker": "REPL",
+            "Gap": 0.6944444699165158,
+            "Type": "EOD",
+            "Return": 0.09785348624553597,
+            "Old Capital": 722.3549230968118,
+            "New Capital": 793.0398706284609,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-01",
+            "Ticker": "ANY",
+            "Gap": 0.6657894745097597,
+            "Type": "PT",
+            "Return": 0.3999999999999998,
+            "Old Capital": 793.0398706284609,
+            "New Capital": 1110.2558188798453,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-02",
+            "Ticker": "DXST",
+            "Gap": 0.8562499902211131,
+            "Type": "PT",
+            "Return": 0.39999999999999997,
+            "Old Capital": 1110.2558188798453,
+            "New Capital": 1554.3581464317833,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-03",
+            "Ticker": "WCT",
+            "Gap": 0.7336956518218062,
+            "Type": "PT",
+            "Return": 0.3999999999999998,
+            "Old Capital": 1554.3581464317833,
+            "New Capital": 2176.1014050044964,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-04",
+            "Ticker": "TWAV",
+            "Gap": 0.577464843122669,
+            "Type": "SL",
+            "Return": -0.19999999999999996,
+            "Old Capital": 2176.1014050044964,
+            "New Capital": 1740.8811240035973,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-05",
+            "Ticker": "BGMS",
+            "Gap": 1.5754718551350642,
+            "Type": "SL",
+            "Return": -0.2,
+            "Old Capital": 1740.8811240035973,
+            "New Capital": 1392.7048992028779,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-08",
+            "Ticker": "ABAT",
+            "Gap": 0.28617367682475503,
+            "Type": "EOD",
+            "Return": -0.05136083725220839,
+            "Old Capital": 1392.7048992028779,
+            "New Capital": 1321.1744095345655,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-09",
+            "Ticker": "INDP",
+            "Gap": 0.2666667650616403,
+            "Type": "SL",
+            "Return": -0.1999999999999999,
+            "Old Capital": 1321.1744095345655,
+            "New Capital": 1056.9395276276525,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-10",
+            "Ticker": "QH",
+            "Gap": 0.38304091039644406,
+            "Type": "SL",
+            "Return": -0.2,
+            "Old Capital": 1056.9395276276525,
+            "New Capital": 845.5516221021221,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-11",
+            "Ticker": "LASE",
+            "Gap": 0.2651162362601597,
+            "Type": "EOD",
+            "Return": -0.11397056599956507,
+            "Old Capital": 845.5516221021221,
+            "New Capital": 749.1836251492929,
+            "Source": "1M_DATA"
+        },
+        {
+            "Date": "2026-06-12",
+            "Ticker": "UBXG",
+            "Gap": 0.26096033610748365,
+            "Type": "PT",
+            "Return": 0.4,
+            "Old Capital": 749.1836251492929,
+            "New Capital": 1048.85707520901,
+            "Source": "1M_DATA"
+        }
+    ]
+}
